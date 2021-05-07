@@ -1,2 +1,2 @@
-# SimplifyOpencv
-缩减opencv库
+# SimplifyOpenCV
+Android OpenCV C++ 集成
